@@ -5,7 +5,7 @@ Edit CONFIG.py
 Start by editing config.py file with correct values.
 
 ## Step-2
-Run ./1.py
+Run ./1.py \n
 Keep restarting immunity when asked and note down offset value once found
 
 ## Step-3
