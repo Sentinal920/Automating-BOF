@@ -10,6 +10,8 @@ Run ./1.py
 
 Keep restarting immunity when asked and note down offset value once found
 
+![Automating BOF](https://github.com/Sentinal920/Automating-BOF/raw/main/images/automatebof.png)
+
 ## Step-3
 change offset value in 2.py and run with any arguments to find badchars
 
