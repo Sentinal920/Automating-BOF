@@ -1,4 +1,4 @@
-# Automating-BOF
+# Automating-BOF-OSCP
 
 ## Step-1
 Edit CONFIG.py
