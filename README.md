@@ -1,5 +1,6 @@
 # Automating-BOF-OSCP
-
+This was made just for the OSCP BOF, and this helped me to complete OSCP BOF exam machine under 15mins.
+ 
 ## Step-1
 Edit CONFIG.py
 
