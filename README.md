@@ -1,7 +1,8 @@
 # Automating-BOF-OSCP
 This was made just for the OSCP BOF, and this helped me to complete OSCP BOF exam machine under 15mins.
  
-For practice you can use tryhackme bof room
+For practice you can use tryhackme bof room which is similar to oscp
+https://tryhackme.com/room/bufferoverflowprep
 
 ## Step-1
 Edit CONFIG.py
